@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=oscarcanongo)
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oscarcanongo&show_icons=true&count_private=true&hide=stars)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=oscarcanongo&show_icons=true&count_private=true&hide=stars" />
 
 <!--
 **OscarCanongo/oscarcanongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
