@@ -1,12 +1,12 @@
 <h2> 📈 GitHub Stats </h2>
 
-<a href = "https://github.com/OscarCanongo">
+<div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcanongo&hide=php,css" />
-</a>
+</div>
 
-<a href = "https://github.com/OscarCanongo">
+<div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarcanongo&show_icons=true&count_private=true&hide=stars" />
-</a>
+</div>
 
 <!--
 **OscarCanongo/oscarcanongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
