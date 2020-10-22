@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oscarcanongo&hide=stars)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oscarcanongo&count_private=true&hide=stars)
 
 <!--
 **OscarCanongo/oscarcanongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
