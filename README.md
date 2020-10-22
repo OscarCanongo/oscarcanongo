@@ -19,7 +19,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarcanongo&show_icons=true&count_private=true&hide=stars" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcanongo)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
 
