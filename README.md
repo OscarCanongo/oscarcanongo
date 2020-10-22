@@ -1,11 +1,7 @@
-Git Stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oscarcanongo&show_icons=true&count_private=true&hide=stars)
 
-<div>
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oscarcanongo&show_icons=true&count_private=true&hide=stars)
-</div>
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcanongo)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oscarcanongo&show_icons=true&count_private=true&hide=stars)
+
 <!--
 **OscarCanongo/oscarcanongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
