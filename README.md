@@ -1,11 +1,6 @@
 
 <div
-  position: relative;
-  width: 50%;
-  float: left;
-  height: 100%;
-  background-color: #282828;
-  z-index: 1010101010
+  display: flex;
 >
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oscarcanongo&show_icons=true&count_private=true&hide=stars)
@@ -13,12 +8,7 @@
 </div>
 
 <div
-  position: relative;
-  width: 50%;
-  float: left;
-  height: 100%;
-  background-color: #0080ff;
-  z-index: 1010101010
+  display: flex;
 >
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcanongo)](https://github.com/anuraghazra/github-readme-stats)
