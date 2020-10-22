@@ -1,20 +1,3 @@
-#col-1 {
-  position: relative;
-  width: 50%;
-  float: left;
-  height: 100%;
-  background-color: #282828;
-  z-index: 1010101010
-}
-
-#col-2 {
-  position: relative;
-  width: 50%;
-  float: left;
-  height: 100%;
-  background-color: #0080ff;
-  z-index: 1010101010
-}
 
 <div id = "col-1">
 
