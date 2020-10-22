@@ -1,11 +1,11 @@
 Git Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div>
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oscarcanongo&show_icons=true&count_private=true&hide=stars)
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+</div>
+<div>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcanongo)](https://github.com/anuraghazra/github-readme-stats)
-</a>
+</div>
 <!--
 **OscarCanongo/oscarcanongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
