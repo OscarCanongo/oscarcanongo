@@ -1,4 +1,4 @@
-📈 # GitHub Stats
+📈 <h1> GitHub Stats </h1>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcanongo&hide=php,css" />
