@@ -9,7 +9,7 @@
 <h2> 📈 GitHub Stats </h2>
 
 <a href = "https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcanongo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcanongo&hide=php,css,html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcanongo&hide=JupyterNotebook,php,css,html" />
 </a>
 
 <a href = "https://github-readme-stats.vercel.app/api?username=oscarcanongo&show_icons=true&count_private=true&hide=stars">
