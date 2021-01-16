@@ -5,6 +5,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/oscarcanongo">
 <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
 </p>
 
 <h2> 📈 GitHub Stats </h2>
